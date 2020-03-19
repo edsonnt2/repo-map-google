@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/faker": "^4.1.10",
+    "@types/googlemaps": "^3.39.3",
+    "parcel": "^2.0.0-alpha.3.2"
+  },
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
